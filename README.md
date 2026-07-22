@@ -126,4 +126,8 @@ Computer Science Engineering Student
 
 ## License
 
-This project is licensed under the MIT License.
+## License
+
+Copyright © 2026 Shreya Prajapati. All rights reserved.
+
+This repository is shared for portfolio and educational purposes only. No part of this code may be copied, modified, redistributed, or used in other projects without the author's prior written permission.
