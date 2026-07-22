@@ -1,4 +1,7 @@
+import sys
+from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import streamlit as st
 import pandas as pd
 import os
@@ -77,7 +80,7 @@ col1, col2 = st.columns([1, 8])
 
 with col1:
     st.markdown("<div style='margin-top:12px'></div>", unsafe_allow_html=True)
-    st.image("KS.png", width=90)
+    st.image("apps/KST.png", width=100)
 
 with col2:
     st.title("KINTSUGI")
